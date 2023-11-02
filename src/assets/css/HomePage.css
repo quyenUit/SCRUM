@@ -1,0 +1,16 @@
+.title_appointment {
+    text-align: center; /* Căn giữa theo chiều ngang */
+    display: flex;
+    justify-content: center; /* Căn giữa theo chiều ngang */
+    align-items: flex-start; /* Căn phía trên theo chiều dọc */
+    margin: 0 ; /* Để loại bỏ margin mặc định */
+    border: 1px solid rgb(147 197 253);
+    border-radius: 15px;
+    height: 60px;
+    font-size: 28px;
+    font-weight: 300;
+    font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    color: aliceblue;
+    background-color: rgb(29 78 216);
+    margin-bottom: 15px;
+}
